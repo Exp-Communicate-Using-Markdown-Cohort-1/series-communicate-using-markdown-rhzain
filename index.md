@@ -6,3 +6,6 @@ string bruh(){
   return "why phon broke";
 }
 ```
+- [ ] Do this step
+- [ ] Do the first step
+- [ ] Do the second step
